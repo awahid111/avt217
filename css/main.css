@@ -1,0 +1,21 @@
+body{
+    background-color: teal;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 100px, 150px;
+}
+#images{
+    margin: 0;
+    text-align: center;
+    background-color: black;
+    font-size: 25px;
+}
+#images image{
+    max-width: 100%;
+    margin: 25px 0;
+
+}
+a{
+   font-size: 25px; 
+    color: snow;
+}
