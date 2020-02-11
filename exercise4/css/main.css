@@ -1,0 +1,27 @@
+body{
+    margin: 50px;
+    font-family: fantasy;
+    background-color: blueviolet;
+    
+}
+h1{
+text-align: center;
+
+}
+h5{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h2{
+    text-align: right;
+}
+body{
+    font-size: 25px;
+}
+ul{
+    margin-left: 50px;
+    
+    
+}
