@@ -15,6 +15,7 @@ body{
 .block1{
     border-color: blueviolet;
     margin: 25px;
+    border-radius: 50%;
 }
 .block2{
     border-color: cadetblue;
