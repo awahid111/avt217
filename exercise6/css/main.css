@@ -2,4 +2,13 @@ body{
     float: left;
     font-size: 30px;
     margin: 25px;
+    background-color: aquamarine;
+}
+a{
+    font-size: 50px;
+    
+}
+li{
+    float: left;
+    margin: 50px;
 }
