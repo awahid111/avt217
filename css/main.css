@@ -10,12 +10,12 @@ body{
     background-color: black;
     font-size: 25px;
 }
-#images image{
+#images img{
     max-width: 100%;
     margin: 25px 0;
 
 }
-a{
+img{
    font-size: 25px; 
     color: snow;
 }
