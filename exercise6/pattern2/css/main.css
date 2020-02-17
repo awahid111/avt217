@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+.container{
+    width: 120vw;
+    margin: -50px -10%;
+}
+.block1, .block2{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    border: 10px solid black;
+}
+.block1{
+    background-color: olive;
+    margin: -5px;
+    border-color: rebeccapurple;
+
+}
+.block2{
+    background-color: magenta;
+    border-color: white;
+    margin: -50px;
+}
