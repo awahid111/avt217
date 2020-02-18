@@ -29,5 +29,8 @@ ul{
 img{
    font-size: 25px; 
     color: snow;
- 
+}
+a{
+    color: crimson;
+    text-decoration: none;
 }
