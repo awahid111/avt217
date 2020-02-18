@@ -7,7 +7,7 @@ body{
 p{
     
     color: whitesmoke;
-    float: left;
+ 
     font-family: 'Exo', sans-serif;
     margin-bottom: 5px;
 }
@@ -21,7 +21,6 @@ a{
     margin-left: 15px;
     margin-right: 15px;
     margin-bottom: 5px;
-    float: left;
     color: rgb(245, 23, 68);
     text-decoration: none;
 }
