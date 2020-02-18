@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+.container{
+    width: 120vw;
+    margin: -50px -10%;
+}
+.block1, .block2, .block3, .block4,.block5{
+    float: left;
+    width: 250px;
+    height: 100px;
+    border-radius: 10%;
+    border: 10px solid black;
+}
+.block1{
+    border-color: yellowgreen;
+    margin: -80px;
+    border-radius: 50%;
+}
+.block2{
+    border-color: orchid;
+    margin: -5px;
+}
+.block3{
+    border-color: rosybrown;
+    margin: 60px;
+    border-radius: 100%;
+}
+.block4{
+    border-color: firebrick;
+    margin: -15px;
+    background-color: springgreen;
+}
+.block5{
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid red;
+}
