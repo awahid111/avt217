@@ -1,7 +1,7 @@
 body{
     background-color: teal;
     color: white;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Exo', sans-serif;
     margin: 100px, 150px;
     float: left;
 }
@@ -17,12 +17,13 @@ body{
 
 }
 li{
+    font-family: 'Exo', sans-serif;
     float: left;
     margin: 35px;
     font-size: 35px;
 }
 ul{
-    
+    font-family: 'Exo', sans-serif;
     font-size: 50px;
 }
 img{
