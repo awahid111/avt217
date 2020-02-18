@@ -2,23 +2,26 @@ body{
     float: left;
     background-color: #000000;
     font-size: 50px;
-    margin: 25px;
+    margin: 50px;
 }
 p{
     
     color: whitesmoke;
     float: left;
     font-family: 'Exo', sans-serif;
+    margin-bottom: 5px;
 }
 a{
-    font-size: 75;
+    
+    font-size: 60;
     font-family: jaf-herb, serif;
     font-weight: 400;
     font-style: normal;
-    margin-top: 35px;
+    margin-top: 40px;
     margin-left: 15px;
     margin-right: 15px;
+    margin-bottom: 5px;
     float: left;
-    color: crimson;
+    color: rgb(245, 23, 68);
     text-decoration: none;
 }
