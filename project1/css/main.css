@@ -23,4 +23,10 @@ a{
     margin-bottom: 5px;
     color: rgb(245, 23, 68);
     text-decoration: none;
+    transition-duration:  2s;
+}
+a:hover{
+    color: whitesmoke;
+    font-size: 90px;
+   
 }
