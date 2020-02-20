@@ -3,7 +3,7 @@ body{
     color: white;
     font-family: 'Exo', sans-serif;
     margin: 100px, 150px;
-    float: left;
+  
 }
 #images{
     margin: 0;
@@ -33,4 +33,9 @@ img{
 a{
     color: crimson;
     text-decoration: none;
+    transition: 2s;
+}
+a:hover{
+    color: royalblue;
+    font-size: 50px;
 }
