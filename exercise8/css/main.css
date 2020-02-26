@@ -1,0 +1,51 @@
+.board{
+    margin: 100px auto;
+    width: 800px;
+}
+.red, .white{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.red {
+    background-color: red;
+}
+.white{
+    background-color: whitesmoke;
+}
+
+.board2{
+    height: 1000px;
+    width: 900px;
+    margin: 100px auto;
+}
+.column, .subhead, .header, .footer{
+    float: left;
+    background-color: red;
+    
+}
+.header{
+    width: 900px;
+    height: 100px;
+    
+}
+.subhead{
+    margin: 25px 0;
+    width: 900px;
+    height: 50px;
+}
+.column{
+    
+    width: 283.33px;
+    height: 600px;
+}
+
+
+.margin25{
+    margin: 0 25px;
+}
+.footer{
+    margin: 25px 0 0 0;
+    width: 900px;
+    height: 75px;
+}
