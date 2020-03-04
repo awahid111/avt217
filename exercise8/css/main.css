@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+    background-color: red;
+}
 .board{
     margin: 100px auto;
     width: 800px;
@@ -48,4 +52,46 @@
     margin: 25px 0 0 0;
     width: 900px;
     height: 75px;
+}
+
+.block5{
+    background-color: whitesmoke;
+    width: 785px;
+    height: 650px;
+    margin: 100px auto;
+}
+.smallblock, .tallblock, .meideumblock, .largeblock{
+    background-color: red;
+    float: left;
+}
+.right{
+    float: left;
+    width: 600px;
+}
+.smallright{
+    width: 100px;
+    float: left;
+}
+.tallblock{
+    width: 50px;
+}
+.smallblock{
+    width: 85px;
+    height: 200px;
+    margin: 7.5px;
+}
+.tallblock{
+    margin: 7.5px;
+    height: 415px;
+    width: 85px;
+}
+.largeblock{
+    margin: 7.5px;
+    height: 630px;
+    width: 170px;
+}
+.meideumblock{
+    margin: 7.5px;
+    height: 415px;
+    width: 185px;
 }
