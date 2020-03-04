@@ -39,7 +39,6 @@ body{
     height: 50px;
 }
 .column{
-    
     width: 283.33px;
     height: 600px;
 }
@@ -94,4 +93,81 @@ body{
     margin: 7.5px;
     height: 415px;
     width: 185px;
+.board3{
+    width: 1000px;
+   height: 5000px;
+   margin: 0 auto;
+}
+.header3, .block, .bottom, .side{
+    background-color: purple;
+    margin: 0;
+    float: left;
+    
+}
+.header3{
+   margin-bottom: 100px;
+    width: 1000px;
+    height: 300px;
+}
+.block{
+    margin-right: 25px;
+    width: 750px;
+    height: 900px;
+    
+}
+.side{
+    
+    width: 200px;
+    height: 450px;
+    
+}
+.bottom{
+    height: 75px;
+    width: 750px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.block4{
+    width: 800px;
+    height: 1000px;
+}
+.toppart{
+    margin: 0 15px;
+    width: 550px;
+    height: 500px;
+    float: left;
+}
+.side4, .top, .blocks, .bottom4{
+    
+    background-color: royalblue;
+    float: left;
+}
+.side4{
+    width: 100px;
+    height: 500px;
+   
+    float: left;
+}
+.top{
+    width: 550px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+.blocks{
+    width: 267.5px;
+    height: 435px;
+   
+}
+.rightblock{
+    margin-right: 15px;
+}
+.firstcourt{
+    width: 800px;
+    height: 500px;
+    margin-bottom: 15px;
+}
+.bottom4{
+    width: 550px;
+    height: 50px;
+    margin-top: 15px;
 }
