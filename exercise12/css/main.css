@@ -1,6 +1,8 @@
 body{
-
+margin: 0px;
+background-color: black;
 }
-img{
+.Containter1{
+    width: 800px;
 
 }
