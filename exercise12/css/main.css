@@ -4,5 +4,10 @@ background-color: black;
 }
 .Containter1{
     width: 800px;
-
+    background-color: whitesmoke;
+    margin: 100 auto;
+}
+.image{
+    width: 400px;
+    height: 400px;
 }
