@@ -13,14 +13,15 @@ background-color: black;
     width: 400px;
 }
 .image{
-    margin: 200px 0px 0px 200px;
+    margin: 200px 0px 200px 400px;
     float: left;
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     
 }
 .text{
     width: 500px;
+    margin: 25px 100px;
 }
 .chapterhead{
     width: 50px;
@@ -39,4 +40,20 @@ img{
     max-width: 100%;
     max-height: 100%;
     display: block;
+}
+.container2{
+    width: 1200px;
+    background-color: whitesmoke;
+    margin: 100px auto;
+}
+.paragraph2{
+    width: 400px;
+    margin:  25px 25px 25px 500px;
+}
+.chapterhead2{
+    margin: 25px 0 0 675px;
+}
+.title2{
+    width: 500px;
+    margin: 50px 50px;
 }
