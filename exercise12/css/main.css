@@ -3,7 +3,7 @@ margin: 0px;
 background-color: black;
 }
 .Containter1{
-    width: 1200px;
+    width: 1000px;
     background-color: whitesmoke;
     margin: 100 auto;
 }
@@ -42,18 +42,101 @@ img{
     display: block;
 }
 .container2{
-    width: 1200px;
+    width: 1000px;
     background-color: whitesmoke;
     margin: 100px auto;
 }
 .paragraph2{
+    font-family: schwager-sans, sans-serif;
+    font-weight: 200;
+    font-style: normal;
     width: 400px;
     margin:  25px 25px 25px 500px;
 }
 .chapterhead2{
+    font-family: worker, serif;
+    font-weight: 400;
+    font-style: normal;
     margin: 25px 0 0 675px;
 }
 .title2{
+    font-family: schwager-sans, sans-serif;
+    font-weight: 200;
+    font-style: normal;
     width: 500px;
-    margin: 50px 50px;
+    margin: 25px 75px;
 }
+.subhead2{
+    font-family: worker, serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0 25px;
+}
+.body3{
+    background-color: white;
+}
+.Container3{
+    color: whitesmoke;
+    margin: 50px auto;
+    background-color: black;
+    width: 1000px;
+    
+}
+.title3{
+
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:crimson;
+    margin-left: 400px;
+    font-family: garamond-premier-pro, serif;
+margin: 25px 200px;
+width: 500px;
+font-size: 16px;
+}
+.paragraph3{
+
+    font-family: garamond-premier-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 350px;
+    margin-left: 500px;
+    font-size: 14px;
+}
+.subhead3{
+    
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:crimson;
+    margin-left: 400px;
+    font-family: garamond-premier-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.chapterhead3{
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color:crimson;
+    margin-left: 650px;
+    font-family: garamond-premier-pro, serif;
+}
+.container4{
+    width: 1000px;
+    background-color: whitesmoke;
+    margin: 25px auto;
+}
+.image4{
+    float: left;
+    margin: 50px 50px;
+    width: 250px;
+    transform: rotate(270deg);
+}
+.paragraph4{
+    font-family: schwager-sans, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    margin:  25px 350px 25px;
+    width: 400px;
+
+}
+.title4{
+    font-size: 15px;
+    color: greenyellow;
+}
+
