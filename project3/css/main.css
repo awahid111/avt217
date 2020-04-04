@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+}
+p{
+    color: #099F1E;
+    font-family: laski-slab-thin, sans-serif;
+    font-weight: 100;    
+    font-style: normal;
+    font-size: 16px;
+}
+.container{
+    width: 1440px;
+    margin: 0 auto;
+}
+.header{
+    text-align: center;
+    width: 1440px;
+    margin: 0 auto;
+}
+.largeimg{
+    width: 1440px;
+    margin: 0px auto;
+}
+h1{
+    font-family: los-feliz, serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #099F1E;
+}
+.title{
+    font-size: 64px;
+    width: 400px;
+    margin: 25px auto;
+
+}
+.txt{
+    width: 375px;
+    margin: 15px 45px;
+}
+.largeside{
+    margin: 150px 15px;
+}
+.images{
+ float: left;
+ margin: 0 50px  0 0;
+}
+.smallside{
+    margin: 25px 50px;
+    width: 400px;
+
+}
+.smallside1{
+    margin: 15px;
+    width: 500px;
+}
+.secondtxt{
+    margin: 75px 15px 15px 0;
+    float: left;
+}
+.firsttxt{
+    float: left;
+}
+.firstblock{
+    margin: 25px;
+}
+.secondblock{
+    width: 1200px;
+    height: 1000px;
+    margin: 25px;
+}
+.thirdtxt{
+    float: left;
+}
+.smallside2{
+    width: 500px;
+    margin:  100px 100px;
+}
