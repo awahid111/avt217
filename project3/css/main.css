@@ -49,7 +49,7 @@
   }
   
   /* Tablet Styles */
-  @media only screen and (min-width: 401px) and (max-width: 999px) {
+  @media only screen and (min-width: 401px) and (max-width: 1199px) {
     body {
       background-color: black; /* Yellow */
     }
@@ -95,7 +95,7 @@
   }
   
   /* Desktop Styles */
-  @media only screen and (min-width: 1000px) {
+  @media only screen and (min-width: 1200px) {
     body{
         background-color: black;
     }
