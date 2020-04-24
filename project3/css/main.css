@@ -46,12 +46,18 @@
         width: 75%;
         margin: 15px auto;
     }
+    .images{
+        text-align: center;
+    }
   }
   
   /* Tablet Styles */
   @media only screen and (min-width: 401px) and (max-width: 1199px) {
     body {
       background-color: black; /* Yellow */
+    }
+    .images{
+        text-align: center;
     }
     .Thirdblock, .firstblock, .secondblock{
         width: 100%;
